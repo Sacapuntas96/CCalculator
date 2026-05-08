@@ -1,3 +1,3 @@
 # CCalculator
 
-A sleek, modern, and lightweight calculator built using **C** and **GTK4/Libadwaita**. Designed to be fast, efficient, and native to the GNOME desktop.
+CCalculator is my first-ever application project. I built it because I wanted a clean, distraction-free calculator that feels native to my Linux desktop and follows the modern GNOME design language.
