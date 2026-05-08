@@ -1,0 +1,24 @@
+.mybutton{
+  border-radius:0;
+  margin:1px;
+  border:1px solid rgba(255,255,255, 0.2);
+}
+.main_window{
+  border-radius:0;
+}
+.equal-button{
+  background-color:rgb(255, 160, 81);
+}
+popover.menu contents {
+  border-radius: 0px;
+}
+popover.menu modelbutton {
+  border-radius: 0px;
+}
+headerbar menubutton > button:focus {
+  outline: none;
+  box-shadow: none;
+}
+headerbar menubutton > button:active {
+  background: transparent;
+}

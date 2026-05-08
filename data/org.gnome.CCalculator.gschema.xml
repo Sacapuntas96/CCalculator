@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="ccalculator">
+	<schema id="org.gnome.CCalculator" path="/org/gnome/CCalculator/">
+	</schema>
+</schemalist>

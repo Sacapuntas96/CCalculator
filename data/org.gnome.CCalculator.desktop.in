@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=CCalculator
+Exec=ccalculator
+Icon=org.gnome.CCalculator
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

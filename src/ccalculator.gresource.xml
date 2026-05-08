@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/CCalculator">
+    <file preprocess="xml-stripblanks">ccalculator-window.ui</file>
+    <file preprocess="xml-stripblanks">shortcuts-dialog.ui</file>
+    <file>main.css</file>
+  </gresource>
+</gresources>

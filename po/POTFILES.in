@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/org.gnome.CCalculator.desktop.in
+data/org.gnome.CCalculator.metainfo.xml.in
+data/org.gnome.CCalculator.gschema.xml
+src/main.c
+src/ccalculator-window.c
+src/ccalculator-window.ui

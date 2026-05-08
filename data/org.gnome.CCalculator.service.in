@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.gnome.CCalculator
+Exec=@bindir@/ccalculator --gapplication-service
